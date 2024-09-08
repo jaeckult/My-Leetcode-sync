@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +38,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
