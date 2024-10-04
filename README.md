@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0067-add-binary) |
+| [0392-is-subsequence](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -53,8 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
