@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0392-is-subsequence) |
+| [2580-circular-sentence](https://github.com/jaeckult/My-Leetcode-sync/tree/master/2580-circular-sentence) |
 ## Math
 |  |
 | ------- |
