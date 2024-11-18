@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0268-missing-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0628-maximum-product-of-three-numbers) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0392-is-subsequence) |
