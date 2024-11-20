@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0812-rotate-string](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0812-rotate-string) |
 | [2580-circular-sentence](https://github.com/jaeckult/My-Leetcode-sync/tree/master/2580-circular-sentence) |
 ## Math
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0812-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
