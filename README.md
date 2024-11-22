@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0792-binary-search) |
 ## Sorting
 |  |
