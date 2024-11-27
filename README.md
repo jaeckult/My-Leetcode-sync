@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
