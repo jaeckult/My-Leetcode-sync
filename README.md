@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0792-binary-search) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jaeckult/My-Leetcode-sync/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0724-find-pivot-index) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jaeckult/My-Leetcode-sync/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
