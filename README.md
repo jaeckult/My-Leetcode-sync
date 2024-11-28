@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0628-maximum-product-of-three-numbers) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Binary Search
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jaeckult/My-Leetcode-sync/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/jaeckult/My-Leetcode-sync/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/jaeckult/My-Leetcode-sync/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
