@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0812-rotate-string](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0812-rotate-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/jaeckult/My-Leetcode-sync/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/jaeckult/My-Leetcode-sync/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2580-circular-sentence](https://github.com/jaeckult/My-Leetcode-sync/tree/master/2580-circular-sentence) |
 ## Math
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0792-binary-search) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jaeckult/My-Leetcode-sync/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/jaeckult/My-Leetcode-sync/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jaeckult/My-Leetcode-sync/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/jaeckult/My-Leetcode-sync/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/jaeckult/My-Leetcode-sync/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 <!---LeetCode Topics End-->
