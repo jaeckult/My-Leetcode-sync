@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0438-find-all-anagrams-in-a-string) |
