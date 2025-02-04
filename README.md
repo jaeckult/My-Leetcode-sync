@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0792-binary-search) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jaeckult/My-Leetcode-sync/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/jaeckult/My-Leetcode-sync/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/jaeckult/My-Leetcode-sync/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Hash Table
 |  |
