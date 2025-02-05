@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0812-rotate-string](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0812-rotate-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/jaeckult/My-Leetcode-sync/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jaeckult/My-Leetcode-sync/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/jaeckult/My-Leetcode-sync/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2580-circular-sentence](https://github.com/jaeckult/My-Leetcode-sync/tree/master/2580-circular-sentence) |
 ## Math
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jaeckult/My-Leetcode-sync/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0229-majority-element-ii) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jaeckult/My-Leetcode-sync/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
