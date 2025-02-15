@@ -10,4 +10,3 @@ class Solution:
             result.append(strs[left:right])  
             left = right
         return result
-
