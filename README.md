@@ -138,4 +138,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0680-valid-palindrome-ii) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
