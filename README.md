@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0268-missing-number) |
 ## Simulation
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0283-move-zeroes) |
