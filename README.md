@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0049-group-anagrams) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0268-missing-number) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0147-insertion-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
