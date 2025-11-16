@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0812-rotate-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/jaeckult/My-Leetcode-sync/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/jaeckult/My-Leetcode-sync/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jaeckult/My-Leetcode-sync/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/jaeckult/My-Leetcode-sync/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2580-circular-sentence](https://github.com/jaeckult/My-Leetcode-sync/tree/master/2580-circular-sentence) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/jaeckult/My-Leetcode-sync/tree/master/0633-sum-of-square-numbers) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/jaeckult/My-Leetcode-sync/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Bit Manipulation
 |  |
 | ------- |
